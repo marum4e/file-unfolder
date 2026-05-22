@@ -1,5 +1,5 @@
 # file-unfolder
-unfolders files from folders. 99.4% vibe coded ;)
+unfolders files from folders.
 
 ## how to use :
 1. place the pyw file in the folder where all the files will be placed
